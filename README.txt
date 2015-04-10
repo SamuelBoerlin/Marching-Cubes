@@ -1,0 +1,1 @@
+Verwendete Programmbibliotheken: glew (x86), glm, SDL 2.0 (x86)
